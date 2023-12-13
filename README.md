@@ -37,8 +37,8 @@ print(U)
 ```
 
 '''Program to solve a matrix using LU decomposition.
-Developed by: 
-RegisterNumber: 
+Developed by: vignesh v
+RegisterNumber: 23002301
 '''
 
 # To print X matrix (solution to the equations)
